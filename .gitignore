@@ -1,0 +1,15 @@
+# Local environment and credentials
+**/.env
+**/.env.*
+!**/.env.example
+**/serviceAccountKey.json
+*.pem
+*.key
+
+# Dependencies and generated output
+**/node_modules/
+**/dist/
+**/build/
+**/coverage/
+**/__pycache__/
+*.log
